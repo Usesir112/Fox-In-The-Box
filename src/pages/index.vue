@@ -50,7 +50,7 @@
         />
       </div>
       <div class="flex items-center">
-        <div class="p-3 bg-white/30 rounded-xl text-white">
+        <div class="p-3 rounded-xl text-white">
           <p class="text-[3rem]">Festi Verse</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
@@ -60,7 +60,7 @@
         </div>
       </div>
       <div class="flex items-center text-right">
-        <div class="p-3 bg-white/30 rounded-xl text-white">
+        <div class="p-3 rounded-xl text-white">
           <p class="text-[3rem]">Festi Verse</p>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
